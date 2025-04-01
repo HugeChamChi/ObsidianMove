@@ -1,0 +1,13 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "custom-rainbow-colors",
+    "custom-background",
+    "custom-font",
+    "line-spacing"
+  ],
+  "textFontFamily": "Consolas",
+  "monospaceFontFamily": "Consolas",
+  "interfaceFontFamily": "Arial",
+  "baseFontSizeAction": true
+}
