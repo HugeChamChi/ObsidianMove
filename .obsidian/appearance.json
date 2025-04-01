@@ -9,5 +9,6 @@
   "textFontFamily": "Consolas",
   "monospaceFontFamily": "Consolas",
   "interfaceFontFamily": "Arial",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 15
 }
