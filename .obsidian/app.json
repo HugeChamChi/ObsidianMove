@@ -1,1 +1,7 @@
-{}
+{
+  "userIgnoreFilters": [
+    "참조",
+    "README",
+    "Z.Images/"
+  ]
+}
