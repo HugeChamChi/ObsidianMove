@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 지식/기초/TCP_IP 4계층별 주요 프로토콜.md",
+                "file": "📖TIL/2025.05/25.05.10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TCP_IP 4계층별 주요 프로토콜"
+              "title": "25.05.10"
             }
           }
         ],
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "udp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "title": "파일 탐색기"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -207,33 +208,35 @@
   },
   "active": "f6d424fdd058b011",
   "lastOpenFiles": [
-    "CS 지식/기초/결합도(Coupling)과 응집도(Cohesion).md",
-    "📖TIL/2025.05/25.05.10.md",
-    "📖TIL/2025.05/25.05.09.md",
-    "CS 지식/기초/자원보호기법.md",
-    "CS 지식/기초/소프트웨어 테스트의 순서.md",
-    "CS 지식/기초/화이트박스&블랙박스 테스트.md",
-    "CS 지식/기초/디자인패턴/데코레이터 패턴.md",
-    "CS 지식/기초/디자인패턴/싱글톤.md",
-    "CS 지식/기초/디자인패턴/프로토타입 패턴(Prototype Pattern).md",
     "📖TIL/2025.05/25.05.11.md",
-    "📖TIL/2025.04/25.04.27.md",
-    "📖TIL/2025.04/25.04.28.md",
-    "📖TIL/2025.04/25.04.29.md",
-    "📖TIL/2025.04/25.04.30.md",
-    "📖TIL/2025.05/25.05.01.md",
+    "📖TIL/2025.05/25.05.12.md",
+    "📖TIL/2025.05/25.05.13.md",
+    "📖TIL/2025.05/25.05.14.md",
+    "📖TIL/2025.05/25.05.17.md",
+    "CS 지식/C언어/printf() 와 scanf().md",
+    "CS 지식/C언어/각 주요 서식 문자열 및 제어문자.md",
+    "CS 지식/C언어/C언어와C++ 의 데이터 타입과 크기.md",
+    "CS 지식/구문/ArrayList.md",
+    "CS 지식/C언어",
+    "📖TIL/2025.05/25.05.09.md",
+    "CS 지식/구문/무제",
+    "📖TIL/2025.05/25.05.10.md",
     "📖TIL/2025.05/25.05.08.md",
     "📖TIL/2025.05/25.05.07.md",
     "📖TIL/2025.05/25.05.06.md",
     "📖TIL/2025.05/25.05.05.md",
-    "📖TIL/2025.04/25.04.26.md",
-    "📖TIL/2025.04/25.04.25.md",
-    "CS 지식/기초/럼바우의 분석기법.md",
-    "CS 지식/기초/프로세스(Process)의 정의.md",
+    "CS 지식/기초/UNIX.md",
+    "CS 지식/기초/교착상태(Deadlock).md",
+    "📖TIL/2025.05/25.05.21.md",
+    "📖TIL/2025.05/25.05.20.md",
+    "📖TIL/2025.05/25.05.19.md",
+    "CS 지식/기초/TCP_IP 4계층별 주요 프로토콜.md",
+    "CS 지식/기초/결합도(Coupling)과 응집도(Cohesion).md",
+    "CS 지식/기초/자원보호기법.md",
+    "CS 지식/기초/소프트웨어 테스트의 순서.md",
+    "CS 지식/기초/화이트박스&블랙박스 테스트.md",
+    "CS 지식/기초/디자인패턴/데코레이터 패턴.md",
     "Pasted image 20250520034110.png",
-    "CS 지식/기초/동기,비동기.md",
-    "📖TIL/2025.05/25.05.18.md",
-    "📖TIL/2025.05/25.05.17.md",
     "📖TIL/2025.05",
     "CS 지식/기초/무제",
     "CS 지식/기초/디자인패턴",
@@ -251,8 +254,6 @@
     "Z.Things",
     "📖TIL/2025.04",
     "📖TIL/2025.03/무제",
-    "ObsidianMove",
-    "ETC",
     "무제.canvas"
   ]
 }
