@@ -11,24 +11,12 @@
             "id": "f6d424fdd058b011",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "video",
               "state": {
-                "file": "📖TIL/2025.05/25.05.12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Z.Images/Desktop_2025.04.26_-_17.44.17.04.mp4"
               },
               "icon": "lucide-file",
-              "title": "25.05.12"
+              "title": "Desktop_2025.04.26_-_17.44.17.04"
             }
           }
         ],
@@ -85,7 +73,8 @@
               "title": "파일 탐색기"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -205,54 +194,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3fc8c2dd3cf15bd9",
+  "active": "9c50d054798bbc8a",
   "lastOpenFiles": [
-    "📖TIL/2025.05/25.05.11.md",
-    "📖TIL/2025.05/25.05.12.md",
+    "Z.Images/Pasted image 20250513123646.png",
+    "📖TIL/2025.05/25.05.26.md",
+    "📖TIL/2025.05/25.05.25.md",
+    "📖TIL/2025.05/무제.md",
+    "Z.Images/Pasted image 20250527115848.png",
+    "Z.Images/Pasted image 20250527114250.png",
+    "Z.Images/Pasted image 20250527114228.png",
+    "Z.Images/Pasted image 20250527114148.png",
+    "Z.Images/Pasted image 20250527114033.png",
+    "Z.Images/Pasted image 20250527113936.png",
+    "Z.Images/Pasted image 20250527113810.png",
+    "Z.Images/Pasted image 20250527111005.png",
+    "Z.Images/Pasted image 20250527110910.png",
+    "Z.Images/Pasted image 20250527105820.png",
     "📖TIL/2025.05/25.05.13.md",
+    "📖TIL/2025.05/25.05.12.md",
+    "📖TIL/2025.05/25.05.14.md",
+    "📖TIL/2025.05/25.05.15.md",
+    "📖TIL/2025.05/25.05.16.md",
+    "📖TIL/2025.05/25.05.17.md",
+    "📖TIL/2025.05/25.05.19.md",
+    "📖TIL/2025.05/25.05.18.md",
+    "📖TIL/2025.05/25.05.20.md",
+    "📖TIL/2025.05/25.05.21.md",
+    "📖TIL/2025.05/25.05.22.md",
+    "📖TIL/2025.05/25.05.23.md",
+    "📖TIL/2025.05/25.05.24.md",
+    "📖TIL/2025.05/25.05.11.md",
     "📖TIL/2025.05/25.05.06.md",
     "📖TIL/2025.05/25.05.07.md",
     "📖TIL/2025.05/25.05.08.md",
     "📖TIL/2025.05/25.05.09.md",
     "📖TIL/2025.05/25.05.10.md",
-    "📖TIL/2025.05/25.05.15.md",
-    "📖TIL/2025.05/25.05.26.md",
-    "📖TIL/2025.05/25.05.25.md",
-    "📖TIL/2025.05/25.05.24.md",
-    "📖TIL/2025.05/25.05.23.md",
-    "📖TIL/2025.05/25.05.22.md",
-    "📖TIL/2025.05/25.05.21.md",
-    "📖TIL/2025.05/25.05.20.md",
-    "📖TIL/2025.05/25.05.19.md",
-    "📖TIL/2025.05/25.05.18.md",
-    "📖TIL/2025.05/25.05.17.md",
-    "📖TIL/2025.05/25.05.16.md",
-    "📖TIL/2025.05/25.05.14.md",
     "CS 지식/SQL/04 DCL.md",
     "CS 지식/SQL/03 DML.md",
-    "Pasted image 20250526144218.png",
     "📖TIL/2025.05/25.05.04.md",
-    "📖TIL/2025.05/25.05.03.md",
-    "📖TIL/2025.05/25.05.02.md",
-    "Pasted image 20250526103724.png",
-    "Pasted image 20250526100135.png",
     "CS 지식/유니티를공부하며/UnityAlgorithm",
-    "Desktop_2025.04.26_-_17.44.17.04.mp4",
+    "Z.Images/Desktop_2025.04.26_-_17.44.17.04.mp4",
     "CS 지식/SQL",
     "CS 지식/C언어",
     "CS 지식/구문/무제",
-    "Pasted image 20250520034110.png",
     "📖TIL/2025.05",
     "CS 지식/기초/무제",
     "CS 지식/기초/디자인패턴",
-    "Pasted image 20250513173300.png",
     "CS 지식/유니티를공부하며",
     "CS 지식/기초/정처기",
-    "Pasted image 20250513123646.png",
-    "Z.Images/Desktop 2025.05.13 - 10.41.49.02.gif",
-    "Z.Images/Pasted image 20250513105058.png",
-    "Z.Images/Pasted image 20250513104100.png",
-    "Z.Images/Pasted image 20250513104013.png",
     "무제.canvas"
   ]
 }
