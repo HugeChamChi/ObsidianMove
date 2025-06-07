@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL Extensions/Project/AWS/03. 그 후 이야기..md",
+                "file": "TIL Extensions/Project/AWS/05. EC2 API 서버 배포하기..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03. 그 후 이야기."
+              "title": "05. EC2 API 서버 배포하기."
             }
           }
         ],
@@ -208,6 +208,8 @@
   },
   "active": "f6d424fdd058b011",
   "lastOpenFiles": [
+    "Pasted image 20250607230216.png",
+    "TIL Extensions/Project/AWS/03. 그 후 이야기..md",
     "TIL Extensions/Project/AWS/04. 프로젝트는 끝나지않았다..md",
     "TIL Extensions/Project/AWS/05. EC2 API 서버 배포하기..md",
     "📖TIL/2025.06/2025.06.05.md",
@@ -223,7 +225,6 @@
     "Pasted image 20250605044928.png",
     "Z.Things/참조.md",
     "Pasted image 20250605043658.png",
-    "TIL Extensions/Project/AWS/03. 그 후 이야기..md",
     "📖TIL/2025.05/25.05.27.md",
     "📖TIL/2025.05/25.05.06.md",
     "📖TIL/2025.05/25.05.05.md",
