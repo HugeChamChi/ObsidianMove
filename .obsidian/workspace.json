@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL Extensions/Project/AWS/05. EC2 API 서버 배포하기..md",
+                "file": "TIL Extensions/Project/AWS/06. EC2 접속하기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "05. EC2 API 서버 배포하기."
+              "title": "06. EC2 접속하기"
             }
           }
         ],
@@ -208,23 +208,24 @@
   },
   "active": "f6d424fdd058b011",
   "lastOpenFiles": [
-    "Pasted image 20250607230216.png",
+    "Pasted image 20250608064259.png",
+    "Pasted image 20250608064137.png",
+    "Pasted image 20250608062624.png",
+    "Pasted image 20250608062459.png",
+    "Pasted image 20250608062354.png",
+    "Pasted image 20250608062235.png",
+    "Pasted image 20250608062207.png",
+    "Pasted image 20250608062138.png",
+    "Pasted image 20250608062036.png",
+    "Pasted image 20250608061849.png",
+    "Pasted image 20250608060928.png",
+    "TIL Extensions/Project/AWS/05. EC2 API 서버 배포하기..md",
+    "TIL Extensions/Project/AWS/06. EC2 접속하기.md",
     "TIL Extensions/Project/AWS/03. 그 후 이야기..md",
     "TIL Extensions/Project/AWS/04. 프로젝트는 끝나지않았다..md",
-    "TIL Extensions/Project/AWS/05. EC2 API 서버 배포하기..md",
     "📖TIL/2025.06/2025.06.05.md",
-    "Pasted image 20250605104054.png",
-    "Pasted image 20250605104006.png",
     "📖TIL/2025.06/2025.06.04.md",
-    "Pasted image 20250605080729.png",
-    "Pasted image 20250605053227.png",
-    "Pasted image 20250605051039.png",
-    "Pasted image 20250605050331.png",
-    "Pasted image 20250605050153.png",
-    "Pasted image 20250605050102.png",
-    "Pasted image 20250605044928.png",
     "Z.Things/참조.md",
-    "Pasted image 20250605043658.png",
     "📖TIL/2025.05/25.05.27.md",
     "📖TIL/2025.05/25.05.06.md",
     "📖TIL/2025.05/25.05.05.md",
@@ -243,7 +244,6 @@
     "📖TIL/2025.05/25.05.19.md",
     "📖TIL/2025.05/25.05.20.md",
     "📖TIL/2025.05/25.05.21.md",
-    "📖TIL/2025.05/25.05.22.md",
     "📖TIL/2025.06",
     "📖TIL/2025.05/무제",
     "TIL Extensions/Project/AWS",
