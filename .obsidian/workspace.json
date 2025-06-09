@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL Extensions/Project/AWS/06. EC2 접속하기.md",
+                "file": "📖TIL/2025.06/2025.06.09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "06. EC2 접속하기"
+              "title": "2025.06.09"
             }
           }
         ],
@@ -208,21 +208,27 @@
   },
   "active": "f6d424fdd058b011",
   "lastOpenFiles": [
-    "TIL Extensions/Project/AWS/05. EC2 API 서버 배포하기..md",
+    "Pasted image 20250609104006.png",
+    "Pasted image 20250609100505.png",
+    "TIL Extensions/Project/AWS/07. Node.js 프로젝트.md",
+    "📖TIL/2025.06/2025.06.09.md",
+    "📖TIL/2025.06/2025.06.05.md",
+    "TIL Extensions/Project/AWS/06(1) 탄력적 IP 연결하기.md",
+    "Pasted image 20250609062312.png",
+    "Pasted image 20250609062030.png",
+    "Pasted image 20250609061957.png",
     "TIL Extensions/Project/AWS/06. EC2 접속하기.md",
-    "Pasted image 20250608215118.png",
-    "Pasted image 20250608214944.png",
-    "Pasted image 20250608214840.png",
-    "Pasted image 20250608214828.png",
-    "Pasted image 20250608064259.png",
-    "Pasted image 20250608064137.png",
-    "Pasted image 20250608062624.png",
-    "Pasted image 20250608062459.png",
-    "Pasted image 20250608062354.png",
-    "Pasted image 20250608062235.png",
+    "Pasted image 20250609050419.png",
+    "Pasted image 20250609050229.png",
+    "Pasted image 20250609045838.png",
+    "Pasted image 20250609044226.png",
+    "Pasted image 20250609044200.png",
+    "Pasted image 20250609044134.png",
+    "ETC/Node.js,Express MySQL 웹 서버 구축/01. SQL 의 기초.md",
+    "ETC/Node.js,Express MySQL 웹 서버 구축",
+    "TIL Extensions/Project/AWS/05. EC2 API 서버 배포하기..md",
     "TIL Extensions/Project/AWS/03. 그 후 이야기..md",
     "TIL Extensions/Project/AWS/04. 프로젝트는 끝나지않았다..md",
-    "📖TIL/2025.06/2025.06.05.md",
     "📖TIL/2025.06/2025.06.04.md",
     "Z.Things/참조.md",
     "📖TIL/2025.05/25.05.27.md",
@@ -239,10 +245,6 @@
     "📖TIL/2025.05/25.05.14.md",
     "📖TIL/2025.05/25.05.16.md",
     "📖TIL/2025.05/25.05.17.md",
-    "📖TIL/2025.05/25.05.18.md",
-    "📖TIL/2025.05/25.05.19.md",
-    "📖TIL/2025.05/25.05.20.md",
-    "📖TIL/2025.05/25.05.21.md",
     "📖TIL/2025.06",
     "📖TIL/2025.05/무제",
     "TIL Extensions/Project/AWS",
@@ -252,7 +254,6 @@
     "CS 지식/SQL",
     "CS 지식/C언어",
     "CS 지식/구문/무제",
-    "📖TIL/2025.05",
     "무제.canvas"
   ]
 }
