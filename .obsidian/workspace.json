@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖TIL/2025.04/25.04.06.md",
+                "file": "TIL Extensions/Project/VR농구게임/VR농구게임.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "25.04.06"
+              "title": "VR농구게임"
             }
           }
         ],
@@ -208,9 +208,28 @@
   },
   "active": "f6d424fdd058b011",
   "lastOpenFiles": [
+    "Pasted image 20250612114024.png",
+    "Pasted image 20250612113907.png",
+    "TIL Extensions/Project/VR농구게임",
+    "TIL Extensions/Project/카드게임/socket.io 를 이용한 멀티연결.md",
+    "TIL Extensions/Project/VR농구게임/VR농구게임.md",
+    "📖TIL/2025.03/25.03.29.md",
+    "TIL Extensions/Project/리듬게임/단노트판정.md",
+    "Pasted image 20250612043516.png",
+    "Pasted image 20250612035609.png",
+    "Pasted image 20250612035436.png",
+    "Pasted image 20250612031912.png",
+    "Pasted image 20250612025547.png",
+    "Pasted image 20250612025121.png",
+    "Pasted image 20250612025048.png",
+    "TIL Extensions/Project/AWS/07. Node.js 프로젝트.md",
+    "TIL Extensions/Project/카드게임",
+    "TIL Extensions/Project/AWS/06. EC2 접속하기.md",
+    "TIL Extensions/Project/AWS/06(1) 탄력적 IP 연결하기.md",
+    "📖TIL/2025.06/2025.06.09.md",
+    "📖TIL/2025.04/25.04.06.md",
     "📖TIL/2025.04/25.04.05.md",
     "📖TIL/2025.04/25.04.04.md",
-    "📖TIL/2025.04/25.04.06.md",
     "📖TIL/2025.04/25.04.07.md",
     "📖TIL/2025.04/25.04.08.md",
     "📖TIL/2025.04/25.04.10.md",
@@ -225,25 +244,8 @@
     "📖TIL/2025.04/25.04.18.md",
     "📖TIL/2025.04/25.04.19.md",
     "📖TIL/2025.04/25.04.25.md",
-    "📖TIL/2025.04/25.04.24.md",
-    "📖TIL/2025.04/25.04.22.md",
-    "📖TIL/2025.04/25.04.20.md",
-    "CS 지식/유니티를공부하며/UnityAlgorithm/AStarAlgorithm vs Dijkstra.md",
-    "📖TIL/2025.03/25.03.31.md",
-    "📖TIL/2025.04/25.04.01.md",
-    "📖TIL/2025.03/25.03.11.md",
-    "📖TIL/2025.06/2025.06.09.md",
     "Pasted image 20250609104006.png",
     "Pasted image 20250609100505.png",
-    "TIL Extensions/Project/AWS/07. Node.js 프로젝트.md",
-    "Pasted image 20250609062312.png",
-    "Pasted image 20250609062030.png",
-    "Pasted image 20250609061957.png",
-    "Pasted image 20250609050419.png",
-    "Pasted image 20250609050229.png",
-    "Pasted image 20250609045838.png",
-    "Pasted image 20250609044226.png",
-    "Pasted image 20250609044200.png",
     "ETC/Node.js,Express MySQL 웹 서버 구축",
     "📖TIL/2025.06",
     "📖TIL/2025.05/무제",
@@ -252,8 +254,6 @@
     "Z.Images/Desktop_2025.04.26_-_17.44.17.04.mp4",
     "CS 지식/유니티를공부하며/UnityAlgorithm",
     "CS 지식/SQL",
-    "CS 지식/C언어",
-    "CS 지식/구문/무제",
     "무제.canvas"
   ]
 }
